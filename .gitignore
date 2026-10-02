@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp and backup files
+*.tmp
+*.bak
+*~
+
+# Packet Tracer autosaves
+*.pka~
+*.pkt~
+
+# Editor folders
+.vscode/
+.idea/
+
+# Private stuff
+*.key
+*.pem
+.env
