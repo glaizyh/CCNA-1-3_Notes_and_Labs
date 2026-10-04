@@ -197,14 +197,14 @@ After completing this project, I should be able to:
 ```text
 Project 1 — Enterprise IPv4 & IPv6 Campus
 
-[X] Topology completed
-[X] IPv4 addressing configured
-[X] IPv6 addressing configured
-[X] VLANs configured
-[X] Layer 3 routing configured
-[X] Static routes configured
-[X] IPv4 connectivity verified
-[X] IPv6 connectivity verified
-[X] Configurations documented
-[X] Project completed
+✔️ Topology completed
+✔️ IPv4 addressing configured
+✔️ IPv6 addressing configured
+✔️ VLANs configured
+✔️ Layer 3 routing configured
+✔️ Static routes configured
+✔️ IPv4 connectivity verified
+✔️ IPv6 connectivity verified
+✔️ Configurations documented
+✔️ Project completed
 ```
