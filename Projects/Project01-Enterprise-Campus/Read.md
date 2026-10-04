@@ -47,7 +47,7 @@ You need:
 
 Open the Packet Tracer project:
 
-[Open 01_Enterprise_Campus.pkt](./01_Enterprise_Campus.pkt)
+[Download/Open 01_Enterprise_Campus.pkt](./01_Enterprise_Campus.pkt)
 
 ## Usage
 
