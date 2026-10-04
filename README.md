@@ -2,8 +2,6 @@
 
 My coursework for the Cisco Networking Academy **CCNA** track: study notes, subnetting practice, and hands-on **Cisco Packet Tracer** labs and projects.
 
-```
-
 ## Courses
 
 | Course | Folder | Status |
@@ -16,7 +14,7 @@ My coursework for the Cisco Networking Academy **CCNA** track: study notes, subn
 
 - **Notes:** module-by-module summaries and reviewers written in Markdown.
 - **Labs:** Packet Tracer (`.pkt`) files for configuration and troubleshooting practice.
-- **Projects:** larger network designs I built myself.
+- **Projects:** larger network designs I built myself, such as *Two LANs Connected by a WAN* and *ABC Enterprise Campus*.
 
 ## Topics Covered
 
@@ -32,9 +30,11 @@ My coursework for the Cisco Networking Academy **CCNA** track: study notes, subn
 ## How to Use
 
 1. Clone the repo:
+
 ```bash
    git clone https://github.com/glaizyh/CCNA-1-3_Notes_and_Projects.git
 ```
+
 2. Open the notes in any Markdown viewer, or browse them on GitHub.
 3. Open `.pkt` files with Cisco Packet Tracer.
 
