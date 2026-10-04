@@ -42,14 +42,12 @@ No programming package installation is required.
 
 You need:
 
-* Cisco Packet Tracer
-* A text/Markdown editor such as VS Code or Notepad++
+- Cisco Packet Tracer
+- A text/Markdown editor such as VS Code or Notepad++
 
 Open the Packet Tracer project:
 
-```text
 [Open 01_Enterprise_Campus.pkt](./01_Enterprise_Campus.pkt)
-```
 
 ## Usage
 
