@@ -48,7 +48,7 @@ You need:
 Open the Packet Tracer project:
 
 ```text
-[**Open 01-Enterprise-Campus.pkt**](./01-Enterprise-Campus.pkt)
+[Open 01-Enterprise-Campus.pkt](./01-Enterprise-Campus.pkt)
 ```
 
 ## Usage
