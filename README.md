@@ -4,8 +4,8 @@ My coursework for the Cisco Networking Academy **CCNA** track: study notes, subn
 
 ## Courses
 
-| Course | Folder | Status |
-|--------|--------|--------|
+| Course | Folder |
+|--------|--------|
 | CCNA 1: Introduction to Networks (ITN) | [CCNA_1_ITN](./CCNA_1_ITN) |
 | CCNA 2: Switching, Routing, and Wireless Essentials (SRWE) | [CCNA_2_SRWE](./CCNA_2_SRWE) | 
 | CCNA 3: Enterprise Networking, Security, and Automation (ENSA) | [CCNA_3_ENSA](./CCNA_3_ENSA) | 
